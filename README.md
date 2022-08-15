@@ -1,8 +1,6 @@
+# CSE-593 - Independent Study, Summer 2022: Indoor Pedestrian Detection by combining Visual and Sensor Tracking <br />
 Name: Vanshika Sharma <br />
 SBU ID: 114365071 <br />
-
-# CSE-593 - Independent Study, Summer 2022: Indoor Pedestrian Detection by combining Visual and Sensor Tracking <br />
-
 1. The YOLO Pedestrian Tracking is implemented in the Google Colaboratory File: <br />
    yolo_pedestrian.ipynb<br />
 2. The three experiments for Dead Reckoning is implemented in:<br />
